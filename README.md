@@ -1,4 +1,4 @@
-# job_runtime_prediction
+# job runtime prediction
 • Predicting run time for jobs on a tech company's private cloud:
 • Derived insights from complex, ambiguous data, including hashed command lines.
 • Addressed data imbalance with synthetic minority oversampling.
